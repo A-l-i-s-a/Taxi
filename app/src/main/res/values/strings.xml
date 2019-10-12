@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Taxi</string>
+    <string name="edit_text_route">Name</string>
+    <string name="edit_text2_route">Name</string>
+    <string name="edit_text3_route">Name</string>
+    <string name="edit_text4_route">Name</string>
+    <string name="edit_text5_route">Name</string>
+    <string name="edit_text6_route">Name</string>
+    <string name="buttonOk">OK</string>
+    <string name="editTextPhone">Телефон</string>
+    <string name="editTextName">Имя</string>
+    <string name="editTextSurname">Фамилия</string>
+    <string name="buttonReg">Регистрация</string>
+    <string name="buttonSetRoute">Установить маршрут</string>
+    <string name="buttonCallTaxi">Вызвать такси</string>
+</resources>

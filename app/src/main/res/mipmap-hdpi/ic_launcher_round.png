@@ -1,0 +1,80 @@
+Manifest-Version: 1.0
+Export-Package: org.apache.commons.codec;version="1.9",org.apache.comm
+ ons.codec.binary;version="1.9",org.apache.commons.codec.digest;versio
+ n="1.9",org.apache.commons.codec.language;version="1.9",org.apache.co
+ mmons.codec.language.bm;version="1.9",org.apache.commons.codec.net;ve
+ rsion="1.9"
+Implementation-Title: Apache Commons Codec
+Built-By: ggregory
+Tool: Bnd-2.1.0.20130426-122213
+Implementation-Vendor: The Apache Software Foundation
+Implementation-Vendor-Id: org.apache
+Specification-Title: Apache Commons Codec
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0.txt
+Bundle-SymbolicName: org.apache.commons.codec
+X-Compile-Target-JDK: 1.6
+Implementation-Version: 1.9
+Specification-Vendor: The Apache Software Foundation
+Bundle-Name: Apache Commons Codec
+Created-By: Apache Maven Bundle Plugin
+X-Compile-Source-JDK: 1.6
+Bundle-Vendor: The Apache Software Foundation
+Build-Jdk: 1.7.0_45
+Bundle-Version: 1.9.0
+Bnd-LastModified: 1387598218836
+Bundle-ManifestVersion: 2
+Bundle-Description: The Apache Commons Codec package contains simple e
+ ncoder and decoders for     various formats such as Base64 and Hexade
+ cimal.  In addition to these     widely used encoders and decoders, t
+ he codec package also maintains a     collection of phonetic encoding
+  utilities.
+Bundle-DocURL: http://commons.apache.org/proper/commons-codec/
+Include-Resource: org/apache/commons/codec/language/bm/ash_approx_any.
+ txt=src/main/resources/org/apache/commons/codec/language/bm/ash_appro
+ x_any.txt,org/apache/commons/codec/language/bm/ash_approx_common.txt=
+ src/main/resources/org/apache/commons/codec/language/bm/ash_approx_co
+ mmon.txt,org/apache/commons/codec/language/bm/ash_approx_cyrillic.txt
+ =src/main/resources/org/apache/commons/codec/language/bm/ash_approx_c
+ yrillic.txt,org/apache/commons/codec/language/bm/ash_approx_english.t
+ xt=src/main/resources/org/apache/commons/codec/language/bm/ash_approx
+ _english.txt,org/apache/commons/codec/language/bm/ash_approx_french.t
+ xt=src/main/resources/org/apache/commons/codec/language/bm/ash_approx
+ _french.txt,org/apache/commons/codec/language/bm/ash_approx_german.tx
+ t=src/main/resources/org/apache/commons/codec/language/bm/ash_approx_
+ german.txt,org/apache/commons/codec/language/bm/ash_approx_hebrew.txt
+ =src/main/resources/org/apache/commons/codec/language/bm/ash_approx_h
+ ebrew.txt,org/apache/commons/codec/language/bm/ash_approx_hungarian.t
+ xt=src/main/resources/org/apache/commons/codec/language/bm/ash_approx
+ _hungarian.txt,org/apache/commons/codec/language/bm/ash_approx_polish
+ .txt=src/main/resources/org/apache/commons/codec/language/bm/ash_appr
+ ox_polish.txt,org/apache/commons/codec/language/bm/ash_approx_romania
+ n.txt=src/main/resources/org/apache/commons/codec/language/bm/ash_app
+ rox_romanian.txt,org/apache/commons/codec/language/bm/ash_approx_russ
+ ian.txt=src/main/resources/org/apache/commons/codec/language/bm/ash_a
+ pprox_russian.txt,org/apache/commons/codec/language/bm/ash_approx_spa
+ nish.txt=src/main/resources/org/apache/commons/codec/language/bm/ash_
+ approx_spanish.txt,org/apache/commons/codec/language/bm/ash_exact_any
+ .txt=src/main/resources/org/apache/commons/codec/language/bm/ash_exac
+ t_any.txt,org/apache/commons/codec/language/bm/ash_exact_approx_commo
+ n.txt=src/main/resources/org/apache/commons/codec/language/bm/ash_exa
+ ct_approx_common.txt,org/apache/commons/codec/language/bm/ash_exact_c
+ ommon.txt=src/main/resources/org/apache/commons/codec/language/bm/ash
+ _exact_common.txt,org/apache/commons/codec/language/bm/ash_exact_cyri
+ llic.txt=src/main/resources/org/apache/commons/codec/language/bm/ash_
+ exact_cyrillic.txt,org/apache/commons/codec/language/bm/ash_exact_eng
+ lish.txt=src/main/resources/org/apache/commons/codec/language/bm/ash_
+ exact_english.txt,org/apache/commons/codec/language/bm/ash_exact_fren
+ ch.txt=src/main/resources/org/apache/commons/codec/language/bm/ash_ex
+ act_french.txt,org/apache/commons/codec/language/bm/ash_exact_german.
+ txt=src/main/resources/org/apache/commons/codec/language/bm/ash_exact
+ _german.txt,org/apache/commons/codec/language/bm/ash_exact_hebrew.txt
+ =src/main/resources/org/apache/commons/codec/language/bm/ash_exact_he
+ brew.txt,org/apache/commons/codec/language/bm/ash_exact_hungarian.txt
+ =src/main/resources/org/apache/commons/codec/language/bm/ash_exact_hu
+ ngarian.txt,org/apache/commons/codec/language/bm/ash_exact_polish.txt
+ =src/main/resources/org/apache/commons/codec/language/bm/ash_exact_po
+ lish.txt,org/apache/commons/codec/language/bm/ash_exact_romanian.txt=
+ src/main/resources/org/apache/commons/codec/language/bm/ash_exact_rom
+ anian.txt,org/apache/commons/codec/language/bm/ash_exact_russian.txt=
+ src/main/resources/org/apache/commons/codec/language/bm/ash_exact_rus
+ sian.txt,org/apache/commons/codec/language/bm/ash_
